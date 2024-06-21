@@ -1,0 +1,8 @@
+
+Zkotlin:S6615";Remove this variable, which is assigned but never accessed.(„‘ŸÑ8ë¸­Òƒ2
+Jkotlin:S6615"&The value assigned here is never used.(Š­ò‡úÿÿÿÿ8ì¸­Òƒ2
+]kotlin:S6619"9Remove this useless null-safe access ?., it always fails.(¥ãÉ€þÿÿÿÿ8ì¸­Òƒ2
+]kotlin:S6619"9Remove this useless null-safe access ?., it always fails.(Ø—µ©þÿÿÿÿ8ï¸­Òƒ2
+Rkotlin:S1481".Remove this unused "neverNull" local variable.(Š³è£þÿÿÿÿ8ð¸­Òƒ2
+ckotlin:S6529"DReplace null check and collection size check with "!isNullOrEmpty()"(ºš…Ú8ñ¸­Òƒ2
+`kotlin:S6510"AMove "return" statements from all branches before "if" statement.(ºš…Ú8ñ¸­Òƒ2
